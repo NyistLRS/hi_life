@@ -1,0 +1,17 @@
+{
+    "address": "深南大道9008号益田威斯汀酒店B1楼(近世界之窗)xxx大道",
+    "desc": "string",
+    "distance": "400米",
+    "images": [
+        "/static/image/good-img.png"
+    ],
+    "name": "茶点叉烧包",
+    "phone": "13989568526",
+    "sellAmount": 1000,
+    "sellPrice": 18.98,
+    "skuId": 0,
+    "spuId": 1,
+    "storeId": 0,
+    "storeName": "中国元素中餐厅",
+    "summary": "粤菜,自助晚餐"
+}

@@ -1,0 +1,51 @@
+[{	
+	"cartId":1,
+	"storeName": "云上生活",
+	"storeId": 0,
+	"products": [{
+			"skuId": 1,
+			"imageUrl": "/static/image/goods/goods-3.png",
+			"productName": "蚝油焖海参1",
+			"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+			"sellPrice": 88.98,
+			"costPrice": 0,
+			"amount":1
+		},{
+			"skuId": 2,
+			"imageUrl": "/static/image/goods/goods-2.png",
+			"productName": "标题",
+			"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+			"sellPrice": 88.98,
+			"costPrice": 0,
+			"amount":11
+		},{
+			"skuId": 3,
+			"imageUrl": "/static/image/goods/goods-1.png",
+			"productName": "酱汁鳗鱼1",
+			"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+			"sellPrice": 88.98,
+			"costPrice": 0,
+			"amount":2
+		}]
+}, {
+	"cartId":2,
+	"storeName": "会卖萌的茶饮店",
+	"storeId": 0,
+	"products": [{
+			"skuId": 4,
+			"imageUrl": "/static/image/goods/goods-1.png",
+			"productName": "蚝油焖海参1",
+			"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+			"sellPrice": 258.98,
+			"costPrice": 0,
+			"amount":3
+		},{
+			"skuId": 5,
+			"imageUrl": "/static/image/goods/goods-2.png",
+			"productName": "标题",
+			"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+			"sellPrice": 66.6,
+			"costPrice": 0,
+			"amount":4
+		}]
+}]

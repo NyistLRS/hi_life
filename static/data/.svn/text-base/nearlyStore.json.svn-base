@@ -1,0 +1,52 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "name": "Lexus深圳湾店",
+            "latitude":22.574314,
+            "longitude":114.066651,
+            "summary": "在这里您可以查看雷克萨斯所有车型，雷克萨斯所有车型。",
+            "sellAmount": "1000",
+            "distance": "5.88千米",
+            "isFirstBuy":"N",
+            "img": "/static/image/nearly/nearly-store1.png"
+        },
+        {
+            "id": "2",
+            "name": "大中华希尔顿酒店",
+            "latitude":22.574314,
+            "longitude":114.066651,
+            "summary": "市中心区午自助餐。",
+            "sellAmount": "3940",
+            "distance": "7.42千米",
+            "isFirstBuy":"N",
+            "img": "/static/image/nearly/nearly-store2.png"
+        },
+        {
+            "id": "3",
+            "name": "坂田海底捞",
+            "latitude":22.574314,
+            "longitude":114.066651,
+            "summary": "这里会是您的味觉的一顿大餐",
+            "sellAmount": "500",
+            "distance": "7.42千米",
+            "isFirstBuy":"N",
+            "img": "/static/image/nearly/nearly-store3.jpg"
+        },
+        {
+            "id": "4",
+            "name": "世界之窗",
+            "latitude":22.574314,
+            "longitude":114.066651,
+            "summary": "我如果爱你—— 绝不像攀援的凌霄花， 借你的高枝炫耀自己： 我如果爱你—— 绝不学痴情的鸟儿， 为绿荫重复单调的歌曲； 也不止像泉源， 常年送来清凉的慰籍； 也不止像险峰，增加你的高度，衬托你的威仪",
+            "sellAmount": "6000",
+            "distance": "5.88千米",
+            "isFirstBuy":"Y",
+            "img": "/static/image/nearly/nearly-store4.jpg"
+        }
+    ],
+    "pageNum": 1,
+    "pageSize": 15,
+    "pages": 1,
+    "total": 2
+}

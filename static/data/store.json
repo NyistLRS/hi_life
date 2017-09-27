@@ -1,0 +1,140 @@
+{
+  "id":0,
+	"name": "中国元素中餐厅",
+	"description": "粤菜,自助晚餐",
+	"address": "深南大道9008号益田威斯汀酒店B1楼(近世界之窗)xxx大道",
+	"distance": 400,
+	"isFirstBuy":"N",
+	"openTime": "string",
+	"phone": "13689598536",
+	"summary": "string",
+	"slideImage": [
+    "/static/image/store/store-banner.png"
+  ],
+	"imageUrl":"/static/image/store/store-banner.png",
+	"cartSize":0,
+	"categorys": [
+		{
+			"categoryName": "粤菜",
+			"id":1,
+			"storeId":0,
+			"menuList": [
+				{
+					"goodId": "1",
+					"img": "/static/image/",
+					"name": "蚝油焖海参1",
+					"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+					"sales": 258.98
+				}, {
+					"goodId": "2",
+					"img": "/static/image/",
+					"name": "标题",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}, {
+					"goodId": "3",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼1",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}
+			]
+		}, {
+			"categoryName": "特色菜",
+			"id":2,
+			"menuList": [
+				{
+					"goodId": "4",
+					"img": "/static/image/",
+					"name": "蚝油焖海参2",
+					"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+					"sales": 258.98
+				}, {
+					"goodId": "5",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼2",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}, {
+					"goodId": "6",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼2",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}
+			]
+		}, {
+			"categoryName": "创意菜",
+			"id":3,
+			"menuList": [
+				{
+					"goodId": "7",
+					"img": "/static/image/",
+					"name": "蚝油焖海参3",
+					"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+					"sales": 258.98
+				}, {
+					"goodId": "8",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼3",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}, {
+					"goodId": "9",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}
+			]
+		}, {
+			"categoryName": "新派料理",
+			"id":4,
+			"menuList": [
+				{
+					"goodId": "10",
+					"img": "/static/image/",
+					"name": "蚝油焖海参4",
+					"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+					"sales": 258.98
+				}, {
+					"goodId": "11",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼4",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}, {
+					"goodId": "12",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼4",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}
+			]
+		}, {
+			"categoryName": "优惠套餐",
+			"id":5,
+			"menuList": [
+				{
+					"goodId": "13",
+					"img": "/static/image/",
+					"name": "蚝油焖海参5",
+					"summary": "粤菜中的传统名肴，多食海参具有补肾养血，滋阴润燥之功效。",
+					"sales": 258.98
+				}, {
+					"goodId": "14",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼5",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}, {
+					"goodId": "15",
+					"img": "/static/image/",
+					"name": "酱汁鳗鱼5",
+					"summary": "粤式风味与日式食材的碰撞，味道鲜香令人回味无穷。",
+					"sales": 88.98
+				}
+			]
+		}
+	]
+}

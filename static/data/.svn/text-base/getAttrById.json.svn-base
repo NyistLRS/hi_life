@@ -1,0 +1,37 @@
+[
+  {
+    "attrId":1,
+    "attrName":"颜色",
+    "options":[
+      {
+        "optionId":1,
+        "optionName":"蓝色"
+      },{
+        "optionId":2,
+        "optionName":"红色"
+      },
+      {
+        "optionId":3,
+        "optionName":"白色"
+      },
+      {
+        "optionId":4,
+        "optionName":"灰色"
+      },
+      {
+        "optionId":5,
+        "optionName":"淡蓝色"
+      }
+    ]
+  },
+  {
+    "attrId":2,
+    "attrName":"套餐",
+    "options":[
+      {
+        "optionId":4,
+        "optionName":"移动"
+      }
+    ]
+  }
+]
